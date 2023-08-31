@@ -8,7 +8,7 @@
 + bable
 + cordova
 + android stuido
-+ +
++ tiled editor
 
 # Game - Don and Bianka
 - Educational game about animals on; Bulgarian, Russian and English language.
