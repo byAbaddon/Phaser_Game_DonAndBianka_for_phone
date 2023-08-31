@@ -2,16 +2,17 @@
 
 ### Created a project using:
 + Phaser 3
++ Tiled editor
 + JS
 + Simple - HTML / CSS
 + webpack
 + bable
 + cordova
 + android stuido
-+ tiled editor
++ 
 
 # Game - Don and Bianka
-- Educational game about animals on; Bulgarian, Russian and English language.
+- Game about love
 
 ## Playing the game
 
