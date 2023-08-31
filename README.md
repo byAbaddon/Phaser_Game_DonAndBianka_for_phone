@@ -1,4 +1,4 @@
-# Phaser_Game_Don_and_Bianka
+# Phaser_Game Don and Bianka
 
 ### Created a project using:
 + Phaser 3
