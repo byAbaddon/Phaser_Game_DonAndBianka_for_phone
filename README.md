@@ -14,10 +14,7 @@
 - Educational game about animals on; Bulgarian, Russian and English language.
 
 ## Playing the game
-Before the game you can practice flipping through the different animals and learning their names on; Bulgarian, Russian and English.
-The aim of the game is to find the correct name of the animal from the different possible options.
-You will get points depending on the correct answers.
-If you get more than ten wrong answers, it's game over.
+
 
 ### Notes:
 ```diff
