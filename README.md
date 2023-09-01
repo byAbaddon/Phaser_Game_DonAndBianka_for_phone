@@ -20,9 +20,11 @@ The goal is to collect the two halves of one heart to pass the level.
 Standard movements in all directions, obstacles, lifts, bridges, mushrooms, boxes, etc.
 ```diff
 - P.S.
- Custom touch player controls, and double tap to jump.
- Ten levels where all options are tested.
- Beta version /may have some bugs/
+ @@ Custom touch player controls, and double tap to jump. @@
+ @@ Ten levels where all options are tested. @@
+ @@ Beta version /may have some bugs
+ @@ text in purple (and bold)@@ /@@
+
 ```
 ### Notes:
 ```diff
