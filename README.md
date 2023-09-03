@@ -12,8 +12,6 @@
 + 
 
 # Game - Don and Bianka
-- Game about love
-
 ## Playing the game
 A fun arcade game with two characters that can be swapped during the game to help each other.
 The goal is to collect the two halves of one heart to pass the level.
