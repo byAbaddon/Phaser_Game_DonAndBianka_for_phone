@@ -43,7 +43,7 @@ https://youtu.be/nqt5aq2jaM4
 ### Download
 #### Created with Phaser 3 and converted for android mobile app.
 ##### download apk file:
-
+https://github.com/byAbaddon/byAbaddon-Phaser_Game_DonAndBianka_for_phone/releases/tag/Don_and_Bianka
 
 
 ### Prerequisites
