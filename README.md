@@ -21,8 +21,6 @@ Standard movements in all directions, obstacles, lifts, bridges, mushrooms, boxe
  ! Custom touch player controls, and double tap to jump.
  ! Ten levels where all options are tested.
  ! Beta version /may have some bugs
-
-
 ```
 ### Notes:
 ```diff
