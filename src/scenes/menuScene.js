@@ -10,9 +10,10 @@ export class MenuScene extends Scene {
   init() {
     console.log('MenuScene was loading...')  
      //remove and add scene again to reset all level
-     this.scene.remove('GameScene')
      this.anims.anims.clear();
-     setTimeout(() =>  this.scene.add('GameScene' , GameScene), 200)
+     cfg.global.currentLevel = 1
+     setTimeout(() => this.scene.remove('GameScene', GameScene), 10)
+     setTimeout(() => this.scene.add('GameScene', GameScene), 200) 
      
   }
   preload() {
