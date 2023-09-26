@@ -37,6 +37,6 @@ export class LoadScene extends Scene {
     //---add more fonts
   
     //----------------------------------------automatic go to Intro scene
-    setTimeout(() => this.scene.start('IntroScene'), 1000)
+    setTimeout(() => this.scene.start('IntroScene'), 200)
   }
 }
