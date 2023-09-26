@@ -5,7 +5,6 @@ import { cfg } from '../game.js'
 export class LoadScene extends Scene {
   constructor() {
     super('LoadScene')
-    // this.screenOrientation = window.innerWidth < window.innerHeight
   }
   init() {
     console.log('LoadScene was loading...')
